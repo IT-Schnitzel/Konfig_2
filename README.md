@@ -72,7 +72,8 @@ PNG-файл (graph.png).
 
 ![image](https://github.com/user-attachments/assets/602baa57-e867-48a9-9170-18be01060000)
 
-![image](https://github.com/user-attachments/assets/2181a6fe-e9ad-48f3-a10b-5754218a1056)
+
+![image](https://github.com/user-attachments/assets/07a0ef20-46bb-46ce-a477-f132efd48dce)
 
 
 Тестирование работы программы:
